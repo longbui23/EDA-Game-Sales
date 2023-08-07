@@ -1,7 +1,15 @@
 # EDA-Game-Sales
+
+1) Intro
 Since github does not support notebook file with javascript embedded package(plotly), you can view the entire noteook in: https://nbviewer.org/ by copy and paste the github notebook link.
 
 Dataset sources: https://github.com/leomaurodesenv/game-datasets#dataset
+
+2) Quick Data Inspection using POWER BI
+
+![image](https://github.com/longbui23/EDA-Game-Sales/assets/112489957/34718158-04ed-4fcc-a913-4b307ed9bbb7)
+
+II) First Page interactive Dashboard Design
 
 ![heatmap](https://github.com/longbui23/EDA-Game-Sales/assets/112489957/42a5885c-b7b5-4829-ada4-edb293c46579)
 
